@@ -1,0 +1,4 @@
+      Cloud computing is the latest generation technology with an extensive IT infrastructure that provides us a means by which we can use and utilize the applications as utilities via the Internet. Cloud computing makes IT infrastructure along with its services available "on-need" basis. The cloud technology includes - a development platform, hard disk, computing power, software application, and database. This technology doesn't require large-scale capital expenditure to access cloud vendors. Instead, the cloud facilitates 'pay-per-use,' i.e., the organizations' users have to pay only that limited amount to use the cloud infrastructure. In other words, cloud computing refers to applications and services that run on a distributed network using virtualized resources and uses the standard internet protocols for accessing.
+
+
+
